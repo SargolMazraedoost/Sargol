@@ -33,19 +33,10 @@ Thesis: *Integrative Data-Driven and First-Principle Approaches for Chromatograp
 ---
 
 ## 🎓 Education
-- **Ph.D.** in Chemical Convergence Engineering – Pukyong National University (PKNU), South Korea (2021–2025)  
+- **Ph.D.** in Chemical Convergence Engineering – Pukyong National University (PKNU), Busan, South Korea (2021–2025)  
 - **M.Sc.** in Microbiology – Islamic Azad University of Lahijan, Iran (2017–2019)  
   *Thesis: Investigating the chemical interaction space governed by bacterial carbonic anhydrase and inhibitors*  
 - **B.Sc.** in Cell & Molecular Biology (Microbiology) – Islamic Azad University of Lahijan, Iran (2013–2017)  
-
----
-
-## Research Experience
-- **Postdoctoral Research Fellow** – Institute of Basic Science, PKNU, South Korea (Sep 2025 – Present)  
-- **Ph.D. Researcher** – Intelligent Systems Laboratory, PKNU (Aug 2021 – Aug 2025)  
-- **Researcher** – University of Tehran, Iran (2019–2021)  
-- **Researcher** – Pharmaceutical Sciences Research Center, Shiraz University of Medical Sciences, Iran (2019–2021)  
-- **Medical Laboratory Scientist** – Community Health Centre, Rasht, Iran (2016–2017)  
 
 ---
 
@@ -59,7 +50,7 @@ Thesis: *Integrative Data-Driven and First-Principle Approaches for Chromatograp
 ---
 
 ## 🏆 Awards
-- **Outstanding International Student Award**, PKNU, South Korea – Aug 2025  
+- **Outstanding International Student Award**, (자랑스러운 국립 부경대학교 외국인 유학생) from Pukyong National University on August 20, 2025 
 
 ---
 
