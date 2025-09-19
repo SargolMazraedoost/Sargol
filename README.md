@@ -1,8 +1,8 @@
 # Sargol
 # 👩🏻‍💻 Sargol Mazraedoost
 
-🎓 **Postdoctoral Research Fellow** at the **Institute of Basic Science**,  
-Pukyong National University (PKNU), Busan, South Korea.  
+🎓 **Postdoctoral Research Fellow**   
+
 
 📚 **Ph.D. in Chemical Convergence Engineering** (Aug 2021 – Aug 2025)  
 **Intelligent Systems Laboratory, PKNU**, Busan, South Korea.  
