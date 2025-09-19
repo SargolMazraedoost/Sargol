@@ -50,7 +50,7 @@ Thesis: *Integrative Data-Driven and First-Principle Approaches for Chromatograp
 ---
 
 ## 🏆 Awards
-- **Outstanding International Student Award**, (자랑스러운 국립 부경대학교 외국인 유학생) from Pukyong National University on August 20, 2025 
+- **Outstanding International Student Award**, (자랑스러운 국립 부경대학교 외국인 유학생) from Pukyong National University
 
 ---
 
