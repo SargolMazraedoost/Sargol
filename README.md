@@ -1,5 +1,5 @@
 # Sargol
-# 👩‍🔬 Sargol Mazraedoost
+# 👩🏻‍💻 Sargol Mazraedoost
 
 🎓 **Postdoctoral Research Fellow** at the **Institute of Basic Science**,  
 Pukyong National University (PKNU), Busan, South Korea.  
