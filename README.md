@@ -1,10 +1,10 @@
-# Sargol
-# 👩🏻‍💻 Sargol Mazraedoost
 
-🎓 **Postdoctoral Research Fellow**   
+# Sargol Mazraedoost
+
+**Postdoctoral Research Fellow**   
 
 
-📚 **Ph.D. in Chemical Convergence Engineering** (Aug 2021 – Aug 2025)  
+**Ph.D. in Chemical Convergence Engineering** (Aug 2021 – Aug 2025)  
 **Intelligent Systems Laboratory, PKNU**, Busan, South Korea.  
 Thesis: *Integrative Data-Driven and First-Principle Approaches for Chromatographic Retention Time Prediction and Binding Affinity Enhancement*  
 
@@ -22,7 +22,7 @@ Thesis: *Integrative Data-Driven and First-Principle Approaches for Chromatograp
 
 ---
 
-## 🧪 Research Interests
+## Research Interests
 - Artificial Intelligence in Drug Discovery  
 - Cheminformatics & Bioinformatics  
 - Machine Learning/Deep Learning for QSRR and QSAR modeling  
@@ -40,7 +40,7 @@ Thesis: *Integrative Data-Driven and First-Principle Approaches for Chromatograp
 
 ---
 
-## 🔬 Research Experience
+## Research Experience
 - **Postdoctoral Research Fellow** – Institute of Basic Science, PKNU, South Korea (Sep 2025 – Present)  
 - **Ph.D. Researcher** – Intelligent Systems Laboratory, PKNU (Aug 2021 – Aug 2025)  
 - **Researcher** – University of Tehran, Iran (2019–2021)  
@@ -67,7 +67,3 @@ Thesis: *Integrative Data-Driven and First-Principle Approaches for Chromatograp
 - Persian: Native  
 - English: Professional working proficiency  
 - Korean: Elementary proficiency  
-
----
-
-✍️ *This README serves as my academic and research profile.*
