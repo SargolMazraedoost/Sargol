@@ -5,7 +5,7 @@
 
 
 **Ph.D. in Chemical Convergence Engineering** (Aug 2021 – Aug 2025)  
-**Intelligent Systems Laboratory, PKNU**, Busan, South Korea.  
+Intelligent Systems Laboratory, PKNU, Busan, South Korea.  
 Thesis: *Integrative Data-Driven and First-Principle Approaches for Chromatographic Retention Time Prediction and Binding Affinity Enhancement*  
 
 ---
