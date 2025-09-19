@@ -22,7 +22,7 @@ Thesis: *Integrative Data-Driven and First-Principle Approaches for Chromatograp
 
 ---
 
-## Research Interests
+## 🧪 Research Interests
 - Artificial Intelligence in Drug Discovery  
 - Cheminformatics & Bioinformatics  
 - Machine Learning/Deep Learning for QSRR and QSAR modeling  
@@ -33,7 +33,7 @@ Thesis: *Integrative Data-Driven and First-Principle Approaches for Chromatograp
 ---
 
 ## 🎓 Education
-- **Ph.D.** in Chemical Convergence Engineering, Pukyong National University (PKNU), South Korea (2021–2025)  
+- **Ph.D.** in Chemical Convergence Engineering – Pukyong National University (PKNU), South Korea (2021–2025)  
 - **M.Sc.** in Microbiology – Islamic Azad University of Lahijan, Iran (2017–2019)  
   *Thesis: Investigating the chemical interaction space governed by bacterial carbonic anhydrase and inhibitors*  
 - **B.Sc.** in Cell & Molecular Biology (Microbiology) – Islamic Azad University of Lahijan, Iran (2013–2017)  
