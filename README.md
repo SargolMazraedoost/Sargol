@@ -5,7 +5,7 @@
 
 
 **Ph.D. in Chemical Convergence Engineering** (Aug 2021 – Aug 2025)  
-Intelligent Systems Laboratory, PKNU, Busan, South Korea.  
+Intelligent Systems Laboratory, Pukyong National University (PKNU), Busan, South Korea.  
 Thesis: *Integrative Data-Driven and First-Principle Approaches for Chromatographic Retention Time Prediction and Binding Affinity Enhancement*  
 
 ---
@@ -33,7 +33,7 @@ Thesis: *Integrative Data-Driven and First-Principle Approaches for Chromatograp
 ---
 
 ## 🎓 Education
-- **Ph.D.** in Chemical Convergence Engineering – PKNU, South Korea (2021–2025)  
+- **Ph.D.** in Chemical Convergence Engineering, Pukyong National University (PKNU), South Korea (2021–2025)  
 - **M.Sc.** in Microbiology – Islamic Azad University of Lahijan, Iran (2017–2019)  
   *Thesis: Investigating the chemical interaction space governed by bacterial carbonic anhydrase and inhibitors*  
 - **B.Sc.** in Cell & Molecular Biology (Microbiology) – Islamic Azad University of Lahijan, Iran (2013–2017)  
